@@ -1,0 +1,11 @@
+product_id,product_name,category,unit_price,unit_cost
+201,Wireless Mouse,Electronics,650,420
+202,Keyboard,Electronics,1200,780
+203,Water Bottle,Home & Kitchen,350,180
+204,Backpack,Fashion,1500,850
+205,Running Shoes,Fashion,2400,1450
+206,Coffee Maker,Home & Kitchen,3200,2200
+207,Bluetooth Speaker,Electronics,1800,1120
+208,Desk Lamp,Home & Kitchen,900,510
+209,T-Shirt,Fashion,700,300
+210,Power Bank,Electronics,1400,900

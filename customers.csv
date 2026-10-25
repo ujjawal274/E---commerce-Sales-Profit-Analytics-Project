@@ -1,0 +1,13 @@
+customer_id,customer_name,city,region,signup_date
+1001,Aarav Sharma,Delhi,North,2024-01-12
+1002,Priya Singh,Mumbai,West,2024-02-05
+1003,Rohan Kumar,Patna,East,2024-02-19
+1004,Ananya Das,Kolkata,East,2024-03-01
+1005,Vivaan Gupta,Jaipur,North,2024-03-15
+1006,Ishita Verma,Pune,West,2024-04-10
+1007,Kabir Yadav,Lucknow,North,2024-04-22
+1008,Meera Nair,Bengaluru,South,2024-05-03
+1009,Arjun Patel,Ahmedabad,West,2024-05-20
+1010,Sana Khan,Hyderabad,South,2024-06-08
+1011,Dev Roy,Ranchi,East,2024-06-21
+1012,Tara Joshi,Chennai,South,2024-07-02
