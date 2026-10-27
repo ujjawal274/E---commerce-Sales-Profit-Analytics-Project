@@ -22,7 +22,8 @@ Notes:
 - discount_pct is stored as a decimal (e.g. 0.10 means 10%).
 - Use order_date for time-series analysis.
 
+'''
 *E-commerce Sales & Profit Analytics Dashboard:*
 <img width="1365" height="604" alt="Screenshot 2026-10-27 080955" src="https://github.com/user-attachments/assets/b4a232a3-eed4-49a3-8d70-6b3692592912" />
-
+'''
 
