@@ -7,7 +7,7 @@ Files:
 
 Join keys:
 - orders.product_id = products.product_id
-- orders.customer_id = customers.customer_id 
+- orders.customer_id = customers.customer_id ( *Optional/Additional Customer Analysis* )
 
 Important definitions:
 - Treat only order_status = 'Delivered' as completed sales for primary KPIs.
