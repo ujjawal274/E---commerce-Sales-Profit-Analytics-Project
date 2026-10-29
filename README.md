@@ -1,4 +1,4 @@
-E-Commerce Sales & Profit Analytics — Practice Dataset
+# 🛒 E-Commerce Sales & Profit Analytics — Practice Dataset
 
 Files:
 - orders.csv: 47 order records (including one cancelled order)
