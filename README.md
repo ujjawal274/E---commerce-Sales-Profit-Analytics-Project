@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-2E86C1?style=for-the-badge)
 ![Sales Analysis](https://img.shields.io/badge/Sales-Analysis-16A085?style=for-the-badge)
 ![Profit Analysis](https://img.shields.io/badge/Profit-Analysis-8E44AD?style=for-the-badge)
@@ -13,11 +13,7 @@
 
 </div>
 
----
-
-# 👋 Welcome to My E-Commerce Analytics Project:
-
-This project uses a synthetic e-commerce dataset to explore sales, revenue, discounts, product costs, and profit. The goal is to turn order data into a dashboard and useful business insights that can support data-driven decisions.
+This project uses a synthetic e-commerce dataset to explore sales, revenue, product costs, and profit. The goal is to turn order data into a dashboard and useful business insights that can support data-driven decisions.
 
 ---
 
