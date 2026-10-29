@@ -7,7 +7,7 @@ Files:
 
 Join keys:
 - orders.product_id = products.product_id
-- orders.customer_id = customers.customer_id ( *Optional/Additional Customer Analysis* )
+- orders.customer_id = customers.customer_id ( *Optional/Additional Customers Analysis* )
 
 Important definitions:
 - Treat only order_status = 'Delivered' as completed sales for primary KPIs.
@@ -30,8 +30,9 @@ Notes:
 ---
 ---
 
-*E-commerce Sales & Profit Analytics Dashboard:*
-<img width="1365" height="604" alt="Screenshot 2026-10-27 080955" src="https://github.com/user-attachments/assets/b4a232a3-eed4-49a3-8d70-6b3692592912" />
+*E-commerce Sales & Profit Analytics Final Dashboard:*
+<img width="1341" height="548" alt="Screenshot 2026-10-29 170818" src="https://github.com/user-attachments/assets/a7fa38f6-403e-428c-9cc9-cae87f48d7f3" />
+
 
 ---
 
