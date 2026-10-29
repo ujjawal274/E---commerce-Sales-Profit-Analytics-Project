@@ -33,7 +33,7 @@ Notes:
 
 <img width="722" height="379" alt="Screenshot 2026-10-27 211153" src="https://github.com/user-attachments/assets/2fe7a700-6427-4814-9ea6-a664c4d901b1" />
 
-- (Fashion Products ka stock jyada rakhna, Good Quality, Discount dena, Vouchers dena, Goodies dena )
+- Fashion Products ka stock jyada rakhna, Good Quality, Discount dena, Vouchers dena, Goodies dena 
 - Insight/useful_info- Business ko har ₹100 ki revenue par lagbhag ₹39.76 profit mil raha hai. 
 
 ---
